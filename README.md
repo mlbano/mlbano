@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-A Full Stack Developer that loves seeing my code come to life!
+A Full Stack Developer who loves seeing my code come to life!
 
 💙 **Pronouns**: She/Her \
 🌱 **I’m currently learning**: Kotlin \
-🔭 **I’m currently working on**: Mobile Salary Calculator 
+🔭 **I’m currently working on**: Mobile Wage Calculator and Chat Room App
 
 
 
