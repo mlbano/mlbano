@@ -36,12 +36,12 @@ A Full Stack Developer that loves seeing my code come to life!
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
-
 </p>
 
 
 ### Frameworks
 
+<p>
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg">
@@ -50,27 +50,25 @@ A Full Stack Developer that loves seeing my code come to life!
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio2.svg">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-
+</p>
 
 ### Databases
 
+<p>
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
+</p>
 
 ### Developer Tools
 
+<p>
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
-<img src="">
-<img src="">
+</p>
 
 
 ### 📫 How to reach me
-<p>
 
+<p>
 <a href="https://www.linkedin.com/in/milanie-bano-6b31181a5/">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"/> 
 </p>
