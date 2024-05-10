@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 A Full Stack Developer who loves seeing my code come to life!
 
 💙 **Pronouns**: She/Her \
 🌱 **I’m currently learning**: Kotlin \
 🔭 **I’m currently working on**: Mobile Wage Calculator and Chat Room App
-
-
 
 ### Languages 
 
@@ -37,7 +34,6 @@ A Full Stack Developer who loves seeing my code come to life!
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg">
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
 </p>
-
 
 ### Frameworks
 
@@ -63,8 +59,12 @@ A Full Stack Developer who loves seeing my code come to life!
 
 <p>
 <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+<img height="20" src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg">
+<img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg">
 </p>
-
 
 ### 📫 How to reach me
 
